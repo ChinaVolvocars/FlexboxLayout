@@ -1,0 +1,14 @@
+package com.example.flexboxlayout;
+
+
+public class FlexIconDto {
+  private int id;
+
+  public int getId() {
+    return id;
+  }
+
+  public void setId(int id) {
+    this.id = id;
+  }
+}
